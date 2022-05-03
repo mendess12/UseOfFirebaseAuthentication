@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026978093814",
+    "project_id": "dusuncepaylas-e0ee5",
+    "storage_bucket": "dusuncepaylas-e0ee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026978093814:android:aeca1777b710c67912aad7",
+        "android_client_info": {
+          "package_name": "com.yusufmendes.sharethought"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026978093814-1ou3k7hh46euiqhiivu57kbr1pgf7qd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuArLC7hGzm76bL1JEhjcGr_RcSR-_wKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026978093814-1ou3k7hh46euiqhiivu57kbr1pgf7qd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
